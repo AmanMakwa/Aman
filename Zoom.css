@@ -1,0 +1,478 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#box{
+    border: 1px solid black;
+    height: 38px;
+    width: 100%;
+    background-color: rgb(57, 49, 75);
+}
+.insidebox{
+    margin-left: 66.2%;
+    /* border: 1px solid blue; */
+    display: flex;
+    margin-top: 6px;
+    gap: 23px;
+    width: 22%;
+    font-size: 17px;
+    
+}
+.insidebox>p{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:500;
+}
+.insidebox>p:hover{
+    cursor: pointer;
+}
+#box1{
+    /* border: 1px solid blue; */
+    width: 100%;
+    height: 500px;
+}
+.insidebox1{
+    /* border-bottom: 2px solid rgb(212, 206, 206); */
+    width: 100%;
+    height: 63px;
+    box-shadow: 1px 1px 0px rgba(233, 225, 225, 0.863);
+}
+.insidebox1>img{
+    height: 25px;
+    width: 5.7%;
+     /* border: 1px solid red; */
+     margin-top: 17.6px;
+     margin-left: 14.4%;
+}
+.insidebox2{
+    /* border: 1px solid black; */
+    display: flex;
+    width: 29%;
+    margin-left: 22%;
+    margin-top: -44px;
+    gap: 31px;
+}
+.insidebox2>p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    color: rgb(158, 153, 153);
+}
+.insidebox2>p:hover{
+    color: rgb(77, 141, 236);;
+    cursor: pointer;
+}
+.insidebox3{
+    /* border: 1px solid red; */
+    display: flex;
+    width: 20%;
+    margin-left: 64.1%;
+    margin-top: -21px;
+    gap: 35px;
+}
+.insidebox3>p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    color: rgb(77, 141, 236);
+
+}
+.insidebox3>p:hover{
+    cursor: pointer;
+}
+.insidebox4{
+    background-color: rgb(253, 105, 6);
+    height: 32px;
+    width: 172px;
+    color: white;
+    border-radius: 8px;
+    margin-left: 76.6%;
+    margin-top: -26px;
+    border: 1px solid;
+    /* border: 1px solid rgb(139, 138, 138); */
+}
+.text{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+   /* border: 1px solid black; */
+   width:80%;
+   font-size: 1px;
+    height: 30px;
+    border-radius: 7px;
+    margin-top: 5px;
+    margin-left: 14px;
+}
+.text>a{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+.insidebox4:hover{
+    background-color: rgb(192, 80, 6);
+    cursor: pointer;
+}
+.text1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(44, 42, 42);
+    margin-top: 5.3%;
+    margin-left: 35.1%;
+}
+#box2{
+    border: 1px solid black;
+    height: 414px;
+    width: 100%;
+    background-color: rgb(57, 49, 75);
+    color: white;
+    display: flex;
+    gap:10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.insidebox5{
+    /* border: 1px solid red; */
+    width: 70%;
+    height: 28px;
+    display: flex;
+    margin-left: 21.3%;
+    margin-top: 26px;
+    gap: 10.9%;
+
+}
+.insidebox5>p{
+    font-weight: 500;
+    font-size: 15px;
+}
+.text2:hover{
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+.text3:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.text4:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.text5:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.insidebox6{
+    margin-top:3%;
+    margin-left: -71%;
+     /* border: 1px solid red; */
+}
+.insidebox6>P{
+    margin-left: 8px;
+    /* margin: 2px; */
+    margin-top: 1.8px;
+    font-weight: 400;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.insidebox6>p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.insidebox7{
+    /* border: 1px solid red; */
+    margin-top:3%;
+    margin-left: 40px;
+}
+.insidebox7>p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    margin-top: 1.8px;
+    margin-left: 4px;
+}
+.insidebox7>p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.insidebox8{
+    /* border: 1px solid red; */
+    margin-top:2.9%;
+    margin-left: 69px;
+}
+.insidebox8>p{
+    margin-top: 1.8px; 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+}
+.insidebox8>p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.insidebox9{
+    /* border: 1px solid red; */
+    margin-top: 2.9%;
+    margin-left: 30px;
+    width: 8%;
+}
+.insidebox9>p{
+    margin-top: 1.8px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+}
+.insidebox9>p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.insidebox10{
+    border: 1px solid rgb(110, 108, 108);
+    height: 7%;
+    width: 4.8%;
+    margin-top: 3.3%;
+    margin-left: 44px;
+}
+.insidebox10>p{
+    margin-left:17px;
+    margin-top: 2px;
+    font-size: 16px;
+}
+.insidebox10>p:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.insidebox11{
+    margin-top: 6.3%;
+    margin-left: -101px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+.insidebox12{
+    margin-top: 8%;
+    margin-left: -73.3px;
+    border: 1px solid rgb(110, 108, 108);
+    height: 32px;
+    width: 7.7%;
+}
+.insidebox12>p{
+          margin-left: 10%;
+          margin-top: 2.1%;
+          font-size: 16px;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.insidebox12>p:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.insidebox13{
+    margin-left:-70.6%;
+    /* border: 1px solid red; */
+    height:15.5%;
+    width:3%;
+    margin-top: 17.5%;
+    border-radius: 12px;
+    background-color: rgb(77, 141, 236);
+}
+.insidebox13>.iconify{
+    /* margin-top: 20%; */
+    height: 100%;
+    width: 90%;
+    margin-left: 5%;
+    /* border: 1px solid blue; */
+}
+#box3{
+    /* border: 1px solid red; */
+    display: flex;
+    width: 13.5%;
+    height: 9%;
+    margin-top: 10.2%;
+    margin-left: 58.4%;
+    gap: 5px;
+}
+.insidebox14{
+    /* border: 1px solid red; */
+    height: 37px;
+    width: 37px;
+    border-radius: 50%;
+    background-color: rgb(92, 87, 105);
+}
+.innerbox{
+    border: 1.5px solid white;
+      border-radius: 50%;
+      height: 16px;
+      width: 16px;
+      margin-top: 24%;
+      margin-left: 23%;
+
+}
+.insidebox14>.innerbox>.iconify{
+                 font-size: 15px;
+                 margin-left: -8%;
+                 color: white;
+                 margin-top: -20%;
+
+}
+.insidebox14:hover{
+background-color: rgb(63, 152, 194);
+cursor: pointer;
+}
+.insidebox15{
+    /* border: 1px solid red; */
+    height: 37px;
+    width: 37px;
+    border-radius: 50%;
+    background-color: rgb(92, 87, 105);
+}
+.insidebox15>.iconify{
+    margin-left: 22%;
+    margin-top: 19%;
+    font-size: 21px;
+}
+.insidebox15:hover{
+    background-color: rgb(6, 117, 168);
+    cursor: pointer;
+}
+.insidebox16{
+    height: 37px;
+    width: 37px;
+    border-radius: 50%;
+    background-color: rgb(92, 87, 105);
+}
+.insidebox16>.iconify{
+    margin-left: 22%;
+    margin-top: 19%;
+    font-size: 23px;
+}
+.insidebox16:hover{
+       background-color:rgb(0, 110, 255);
+       cursor: pointer;
+}
+.insidebox17{
+    height: 37px;
+    width: 37px;
+    border-radius: 50%;
+    background-color: rgb(92, 87, 105);
+}
+.insidebox17>.iconify{
+    margin-left: 23%;
+    margin-top: 23%;
+    font-size: 20px;
+}
+.insidebox17:hover{
+  background-color: red;
+  cursor: pointer;
+}
+.insidebox18{
+    height: 37px;
+    width: 37px;
+    border-radius: 50%;
+    background-color: rgb(92, 87, 105);
+}
+.insidebox18>.iconify{
+    margin-left: 11.5%;
+    margin-top: 9%;
+    font-size: 30px;
+}
+.insidebox18:hover{
+    background-color: rgba(48, 48, 231, 0.664);
+}
+.insidebox19{
+    height: 37px;
+    width: 37px;
+    border-radius: 50%;
+    background-color: rgb(92, 87, 105);
+}
+.insidebox19>.iconify{
+    margin-left: 15.2%;
+    margin-top: 15%;
+    font-size: 25px;
+}
+.insidebox19:hover{
+    background-image: linear-gradient(rgb(236, 72, 99),rgb(45, 91, 216));
+    cursor: pointer;
+}
+#box4{
+        /* border: 1px solid red; */
+        display: flex;
+        height: 13%;
+        margin-top: -3.6%;
+    margin-left: 21.2%;
+    color: white;
+    /* gap: 4px; */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.insidebox20{
+    /* border: 1px solid blue;   */
+    width: 34%; 
+    height: 100%;
+}
+
+.insidebox21{
+   border-right: 1px solid white;
+   height: 100%;
+   width: 4%;
+   text-align: center;
+}
+.insidebox21>p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+.insidebox22{
+    border-right: 1px solid white;
+    height: 100%;
+    width: 5%;
+    text-align: center;
+
+}
+.insidebox22>p:hover{
+   text-decoration: underline;
+   cursor: pointer;
+}
+.insidebox23{
+    border-right: 1px solid white;
+    height: 100%;
+    width: 7%;
+    text-align: center;
+
+}
+.insidebox23>p:hover{
+    text-decoration: underline;
+    cursor:pointer;
+}
+.insidebox24{
+    border-right: 1px solid white;
+    height: 100%;
+    width: 11%;
+    text-align: center;
+}
+.insidebox24>p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+.insidebox25{
+    border-right: 1px solid white;
+    height: 100%;
+    width: 11%;
+    text-align: center;
+}
+.insidebox25>p:hover{
+   text-decoration: underline;
+   cursor: pointer;;
+}
+.insidebox26{
+    border-right: 1px solid white;
+    height: 100%;
+    width: 18%;
+    text-align: center;
+}
+.insidebox26>p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+.insidebox27{
+    /* border-right: 1px solid white; */
+    height: 100%;
+    width: 8.3%;
+    text-align: center;
+}
